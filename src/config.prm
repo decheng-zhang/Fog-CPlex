@@ -1,0 +1,4 @@
+CPLEX Parameter File Version 12.4.0.0
+
+# Optimizer time limit in seconds
+1039 3600
